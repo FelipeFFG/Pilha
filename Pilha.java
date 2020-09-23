@@ -1,5 +1,3 @@
-package Aula2808;
-
 public class Pilha {
   private int topo = -1;
   private int maximo;
