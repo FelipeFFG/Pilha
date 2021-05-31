@@ -8,11 +8,11 @@ public class Pilha {
         this.dado = new char[maximo];
     }
 
-    public boolean isEmpty() {
+    public boolean Vazio() {
         return topo == -1;
     }
 
-    public boolean isFull() {
+    public boolean Cheio() {
         return topo == maximo - 1;
     }
 
