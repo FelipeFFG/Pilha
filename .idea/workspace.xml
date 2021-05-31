@@ -22,6 +22,19 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,11 +45,7 @@
       <updated>1622483030710</updated>
       <workItem from="1622483033298" duration="28000" />
       <workItem from="1622483071584" duration="29000" />
-<<<<<<< HEAD
-      <workItem from="1622483453876" duration="5349000" />
-=======
-      <workItem from="1622483453876" duration="4360000" />
->>>>>>> 6b067bddc5952b2d76ce1862fdf8da3d4d6092b4
+      <workItem from="1622483453876" duration="6507000" />
     </task>
     <servers />
   </component>

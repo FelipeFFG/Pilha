@@ -2,7 +2,6 @@ public class Pilha {
     private int topo = -1;
     private int maximo;
     private char[] dado;
-
     public Pilha(int maximo) {
         this.maximo = maximo;
         this.dado = new char[maximo];
@@ -10,7 +9,6 @@ public class Pilha {
     public boolean Vazio() {
         return topo == -1;
     }
-
     public boolean Cheio() {
         return topo == maximo - 1;
     }
