@@ -13,6 +13,7 @@ public class Pilha {
     }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     public boolean Vazio() {
         return topo == -1;
     }
@@ -25,6 +26,13 @@ public class Pilha {
 
     public boolean isFull() {
 >>>>>>> ef43888 (Reformat code)
+=======
+    public boolean Vazio() {
+        return topo == -1;
+    }
+
+    public boolean Cheio() {
+>>>>>>> 9914158 (Escritas em ingles para portugues)
         return topo == maximo - 1;
     }
 
