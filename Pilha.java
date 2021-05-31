@@ -20,6 +20,7 @@ public class Pilha {
           }
           else{
           System.out.println("Pilha Cheia");
+          System.out.println("Pilha Cheia");
           }
 
   }
