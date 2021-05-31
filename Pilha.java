@@ -1,5 +1,8 @@
 public class Pilha {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ef43888 (Reformat code)
     private int topo = -1;
     private int maximo;
     private char[] dado;
@@ -9,11 +12,19 @@ public class Pilha {
         this.dado = new char[maximo];
     }
 
+<<<<<<< HEAD
     public boolean Vazio() {
         return topo == -1;
     }
 
     public boolean Cheio() {
+=======
+    public boolean isEmpty() {
+        return topo == -1;
+    }
+
+    public boolean isFull() {
+>>>>>>> ef43888 (Reformat code)
         return topo == maximo - 1;
     }
 
@@ -45,6 +56,7 @@ public class Pilha {
             return -1;
         }
     }
+<<<<<<< HEAD
 =======
   private int topo = -1;
   private int maximo;
@@ -101,4 +113,6 @@ public class Pilha {
 
 
 >>>>>>> 890500d (novo print)
+=======
+>>>>>>> ef43888 (Reformat code)
 }
